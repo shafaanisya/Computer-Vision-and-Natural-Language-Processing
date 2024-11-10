@@ -2,6 +2,9 @@
 Assignment 3: Computer Vision &amp; Natural Language Processing Artificial Intelligence Track • Startup Campus, Indonesia
 
 ## Soal Nomor 1 (Computer Vision - Digital Image Processing)
+- Dataset: -
+- Libraries: Scikit-image, OpenCV, Numpy, Matplotlib
+- Objective: Digital Image Processing
 
 Kasus : 
   Per bulan Juli 2023, Apple dan Samsung memimpin industri ponsel pintar (smartphone) di seluruh dunia, dengan angka gabungan 52,61% dari total pangsa pasar (market share). Sebagai fitur utama yang wajib
@@ -20,6 +23,9 @@ Limited Adaptive Histogram Equation (CLAHE).
 
 
 ## Soal Nomor 2 (Computer Vision - Transfer Learning with Pre-trained CNN)
+- Dataset: MNIST Handwritten Digits (10 classes)
+- Libraries: PyTorch, Torchvision, Scikit-learn
+- Objective: Transfer Learning using CNN-based Pre-trained Models
 
 Kasus : 
   Sebuah fasilitas robot (robotics facility) baru yang berlokasi di Kalimantan Timur, dekat Titik Nol Ibu Kota Negara (IKN) Indonesia, meminta Anda untuk membuat model Computer Vision untuk produk robot baru mereka. Perusahaan meminta Anda untuk mengajari robot cara membaca rangkaian angka. Anda tiba-tiba menyadari bahwa tahap pertama adalah membiarkan robot mengidentifikasi setiap digit dengan benar (0-9). Namun, karena tanggal pengumuman prototipe dipercepat, deadline Anda sangat ketat: Anda hanya memiliki waktu kurang dari satu minggu untuk menyelesaikan pekerjaan. Sebagai pengembang AI profesional, Anda tetap tenang dan tahu bahwa Anda dapat memanfaatkan metode Transfer Learning untuk menyelesaikan masalah ini secara efisien.
@@ -40,6 +46,9 @@ ResNet dan ViT?
 
 
 ## Soal Nomor 3 (Computer Vision - Real-time Object Detection)
+- Dataset: Any YouTube videos
+- Libraries: PyTorch, Numpy, OpenCV2
+- Objective: Real-time Object Detection using CNN-based Pre-trained Models
 
 1. Coba tiga URL YouTube yang disediakan untuk menguji akurasi YOLOv5.
 2. Jawab [ PERTANYAAN ] langsung di notebook, jika ada.
@@ -47,6 +56,10 @@ ResNet dan ViT?
 
 
 ## Soal Nomor 4 (Natural Language Processing - Text Classification)
+- Type: NATURAL LANGUAGE UNDERSTANDING (NLU)
+- Dataset: Disaster Tweets
+- Libraries: NLTK, Pandas, Numpy, Scikit-learn, PyTorch, Transformers
+- Objective: Text Classification with Bidirectional Encoder Representation for Transformers (BERT)
 
 Kasus :
   Dengan ketersediaan smartphone yang semakin luas, masyarakat dapat melaporkan kejadian darurat
